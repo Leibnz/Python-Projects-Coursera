@@ -1,2 +1,2 @@
-# House-Sales-in-King-County
-Анализирование данных с помощью Python
+# Python Projects
+В данном репозитории содержатся основные проекты с курсов на Coursera
